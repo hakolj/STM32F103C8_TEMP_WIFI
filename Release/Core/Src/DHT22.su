@@ -1,0 +1,7 @@
+DHT22.c:26:13:gpio_output	0	static
+DHT22.c:20:6:DHT22_Init	0	static
+DHT22.c:50:6:ONE_WIRE_Start	16	static
+DHT22.c:58:9:ONE_WIRE_Response	24	static
+DHT22.c:95:10:DHT22_ReadData	32	static
+DHT22.c:78:9:DHT22_Get_Data	24	static
+DHT22.c:130:6:DHT22_THMsg	80	static
